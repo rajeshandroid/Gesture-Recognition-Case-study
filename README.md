@@ -28,7 +28,10 @@ Each video is a sequence of 30 frames (or images).
  
 The training data consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use. 
 
-Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+Dataset : https://drive.google.com/file/d/1GPqxmUcp5sQ5NUWAZ9z-_VZFuowYieUJ/view?usp=share_link
+          if this is not work can check anotehr link.
+          https://drive.google.com/drive/u/0/folders/0By3zAnKFndqVVGpVd01lZnhGUTQ?resourcekey=0-7aorZloI-Ujnp6et64KeXw
+
 
 ### Contributers:
  - [Rajesh Sharma](https://github.com/rajeshandroid/Gesture-Recognition-Case-study)
